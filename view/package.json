@@ -1,0 +1,38 @@
+{
+  "name": "view",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "cpsat-js": "1.5.1",
+    "d3-force": "^3.0.0",
+    "d3-hierarchy": "^3.1.2",
+    "d3-quadtree": "^3.0.2",
+    "d3-selection": "^3.0.0",
+    "d3-zoom": "^3.0.0",
+    "delaunator": "^5.1.0",
+    "highs": "1.15.4",
+    "lucide-react": "^0.468.0",
+    "rbush": "^4.0.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/d3-force": "^3.0.0",
+    "@types/d3-hierarchy": "^3.1.0",
+    "@types/d3-quadtree": "^3.0.6",
+    "@types/d3-selection": "^3.0.0",
+    "@types/d3-zoom": "^3.0.0",
+    "@types/delaunator": "^5.0.3",
+    "@types/rbush": "^4.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "~5.9.3",
+    "vite": "^6.4.0"
+  }
+}

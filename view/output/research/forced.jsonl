@@ -1,0 +1,12 @@
+{"family":"forced","solver":"baseline","firstSeed":811,"budget":150,"cases":8,"proven":0,"totalCost":30824,"medianMs":150.1}
+{"family":"forced","solver":"custom","firstSeed":811,"budget":150,"cases":8,"proven":8,"totalCost":30824,"medianMs":0.2}
+{"family":"forced","solver":"cpSat","firstSeed":811,"budget":150,"cases":8,"proven":8,"totalCost":30824,"medianMs":16.1}
+{"family":"sparse","solver":"baseline","firstSeed":811,"budget":150,"cases":8,"proven":0,"totalCost":13225,"medianMs":150.1}
+{"family":"sparse","solver":"custom","firstSeed":811,"budget":150,"cases":8,"proven":0,"totalCost":13225,"medianMs":150.9}
+{"family":"sparse","solver":"cpSat","firstSeed":811,"budget":150,"cases":8,"proven":8,"totalCost":11457,"medianMs":40.7}
+{"family":"cubic","solver":"baseline","firstSeed":811,"budget":150,"cases":8,"proven":1,"totalCost":10662,"medianMs":150.1}
+{"family":"cubic","solver":"custom","firstSeed":811,"budget":150,"cases":8,"proven":7,"totalCost":10662,"medianMs":68}
+{"family":"cubic","solver":"cpSat","firstSeed":811,"budget":150,"cases":8,"proven":8,"totalCost":10662,"medianMs":15.8}
+{"family":"complete","solver":"baseline","firstSeed":811,"budget":150,"cases":8,"proven":1,"totalCost":27964,"medianMs":150}
+{"family":"complete","solver":"custom","firstSeed":811,"budget":150,"cases":8,"proven":8,"totalCost":27877,"medianMs":35.5}
+{"family":"complete","solver":"cpSat","firstSeed":811,"budget":150,"cases":8,"proven":8,"totalCost":27877,"medianMs":27.1}
